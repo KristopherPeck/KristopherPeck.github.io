@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I am a System Administrator experienced in working in fast paced environments due to my experience working at Managed Service Providers. I'm primarily experienced in working in Windows environments with some experience managing Apple OSX systems. 
+about_me_description: I am a System Administrator experienced in working in fast paced environments due to my experience working at a Managed Service Provider servicing over 2000 endpoints. I'm primarily experienced in working in Windows environments with some experience managing Apple OSX systems. 
 
 # SKILLS SECTION
 # show_skills_card:
